@@ -13,4 +13,4 @@
 7) php artisan serve
 
 ### Output
-https://raw.githubusercontent.com/ahmer-naheed-247/laravel_s3_storage/master/screencapture-127-0-0-1-8000-2023-09-13-10_39_47.png
+<img src="https://raw.githubusercontent.com/ahmer-naheed-247/laravel_s3_storage/master/screencapture-127-0-0-1-8000-2023-09-13-10_39_47.png">
