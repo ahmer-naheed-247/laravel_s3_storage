@@ -3,7 +3,7 @@
 2) cd laravel_s3_storage
 3) cp .env.example to .env
 4) add the aws credentials
-   
+
     AWS_ACCESS_KEY_ID=
     AWS_SECRET_ACCESS_KEY=
     AWS_DEFAULT_REGION=
